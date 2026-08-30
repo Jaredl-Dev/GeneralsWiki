@@ -4,6 +4,7 @@
 
 - [How to Get Involved](how_to_involved)
 - [How to Contribution](https://github.com/TheSuperHackers/GeneralsGameCode/blob/main/CONTRIBUTING.md)
+- [Running Generals Zero Hour on macOS](RunReleaseBuildsonMacOS)
 - [Replays for testing](replay_testing)
 - [In-Game Debug Commands](ingame_debug_commands)
 - [Community forks](forks)
@@ -37,10 +38,6 @@
 
 - **Linux**:
   - [Build on Linux with Docker](linux_docker)
-
-### **Community Guides**:
-- **macOS Guides**:
-  - [Running Generals Zero Hour on macOS (Apple Silicon)](RunReleaseBuildsonMacOS)
 
 
 ### **Other Forks**:

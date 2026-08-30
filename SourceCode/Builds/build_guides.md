@@ -28,16 +28,8 @@ options, target selection, installation, and build-specific requirements.
 
 ## Build configurations
 
-The [Build Configurations Overview](build_configuration) describes the Release, Debug, and Profile configurations and
-the compiler flags each one uses.
-
-## Community guides
-
-These guides are contributed by the community and are not maintained by TheSuperHackers.
-
-| Guide                                                          | Purpose                                            |
-| -------------------------------------------------------------- | -------------------------------------------------- |
-| [Running Generals Zero Hour on macOS](RunReleaseBuildsonMacOS) | Run a release build with Heroic and Wine-CrossOver |
+The [Build Configurations Overview](build_configuration) describes the Release, Debug, and Profile configurations, the
+build options, and the debug feature options that control them.
 
 ## Community forks
 
