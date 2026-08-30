@@ -30,11 +30,3 @@ options, target selection, installation, and build-specific requirements.
 
 The [Build Configurations Overview](build_configuration) describes the Release, Debug, and Profile configurations, the
 build options, and the debug feature options that control them.
-
-## Community forks
-
-These guides cover customized forks of the project, which may have their own build setups.
-
-| Guide                                                                       | Toolchain |
-| --------------------------------------------------------------------------- | --------- |
-| [MSVC22 (x64) Generals Only (Windows)](build_with_msvc22_x64_jmarshall2323) | Win64     |

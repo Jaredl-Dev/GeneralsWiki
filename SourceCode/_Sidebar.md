@@ -39,10 +39,6 @@
 - **Linux**:
   - [Build on Linux with Docker](linux_docker)
 
-
-### **Other Forks**:
-  - [MSVC22 (x64) Generals Only (Windows)](build_with_msvc22_x64_jmarshall2323)
-
 ## Libraries
 
 - DirectX
