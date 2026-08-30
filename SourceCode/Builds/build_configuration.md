@@ -41,13 +41,9 @@ There are four main build configurations in the project, each designed for diffe
 
 - **Use Case:** Used during development for debugging and resolving issues in the code.
 
-> **⚠️ Debug Build Requirements:** To run a debug build of the game, you need to have  
-> the following two files in the game directory alongside the built executable:
->
-> - [`MSVCRTD.DLL`](https://github.com/TheSuperHackers/GeneralsWiki/raw/refs/heads/main/SourceCode/Builds/files/MSVCRTD.DLL)  
->   Microsoft Visual C++ Runtime Library (Debug)
-> - [`MSVCIRTD.DLL`](https://github.com/TheSuperHackers/GeneralsWiki/raw/refs/heads/main/SourceCode/Builds/files/MSVCIRTD.DLL)  
->   Microsoft Visual C++ Internationalization Runtime Library (Debug)
+> [!IMPORTANT]
+> Debug builds require the Microsoft debug runtime libraries in the same directory as the built executable.
+> See [VC6 Debug runtime](cmake_guide#vc6-debug-runtime) for the required files.
 
 ### 3. **Profile (O2, IG_DEBUG_STACKTRACE, _RELEASE, _PROFILE)**
 

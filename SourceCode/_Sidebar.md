@@ -27,22 +27,20 @@
 
 ## [Builds](build_guides)
 - [Build Configuration Overview](build_configuration)
-- [CMake Overview](cmake_guide)
+- [Building with CMake](cmake_guide)
 
 ### **TheSuperHackers Official Guides**:
-- **Visual Studio 6 Guides**:
-  - [Using pure Visual Studio 6 (x86) (Windows)](build_with_ea_msvc6)
-  - [Using Cmake & Visual Studio 6 (x86) (Windows)](build_with_msvc6)
-    - [CLion & VC6 Toolchain](build_with_clion_vc6_toolchain)
-    - [Docker & VC6](build_with_msvc6_on_docker)
+- **Windows**:
+  - [CMake and Visual Studio 6](visual_studio_6)
+  - [Build with CLion using VC6 or Win32](clion_vc6_win32)
+  - [Visual Studio 2022 and 2026](visual_studio)
 
-- **Visual Studio 2022 Guides**:
-  - [Using Cmake (x86) (Windows)](build_with_msvc22)
-  - [Using Cmake (Linux)](build_with_msvc22_linux)
+- **Linux**:
+  - [Build on Linux with Docker](linux_docker)
 
 ### **Community Guides**:
 - **macOS Guides**:
-  - [Using Heroic & Wine-CrossOver (Apple Silicon)](macos_heroic_wine_crossover.md)
+  - [Running Generals Zero Hour on macOS (Apple Silicon)](RunReleaseBuildsonMacOS)
 
 
 ### **Other Forks**:
